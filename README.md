@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prakharadgale-creator
-- 👀 I’m interested in ... Javascript, ReactJS, NextJS, NestJS, Serverless
+- 👀 I’m interested in ... Web Development (Javascript, ReactJS, NextJS, NestJS, Serverless)
 - 🌱 I’m currently learning ... Web3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
