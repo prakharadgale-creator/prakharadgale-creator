@@ -5,7 +5,6 @@
          - ExpressJS, NestJS (Backend)
          - NextJS, ReactJS (Frontend)
          - Serverless 
-- 🌱 I’m currently learning ... Web3
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me - p.adgale@gmail.com
 
