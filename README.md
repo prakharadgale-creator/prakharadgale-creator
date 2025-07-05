@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakharadgale-creator
+- 👋 Hi, I’m Prakhar
 - 👀 I’m interested in ... Web Development 
          - Javascript
          - NodeJS
