@@ -1,4 +1,4 @@
-👋 Hi, I’m Prakhar
+👋 Hi, I’m Prakhar,
 Software Engineer | Full-Stack Web Developer 
 
 - 👀 I’m interested in ... Web Development 
