@@ -1,14 +1,14 @@
 👋 Hi, I’m Prakhar,
 Software Engineer | Full-Stack Web Developer 
 
-- 👀 I’m interested in ... Web Development 
+- I’m interested in ... Web Development 
          - Javascript
          - NodeJS
          - ExpressJS, NestJS (Backend)
          - NextJS, ReactJS (Frontend)
          - MySQL, MongoDB, Postgres
            
-- 💞️ I’m looking to collaborate on web development projects
+- I’m looking to collaborate on web development projects
   
 📫 Let’s Connect here -> p.adgale@gmail.com
 
